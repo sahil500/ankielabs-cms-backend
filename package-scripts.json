@@ -1,0 +1,3 @@
+{
+  "seed": "ts-node src/database/seed.ts"
+}
